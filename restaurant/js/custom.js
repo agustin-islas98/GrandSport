@@ -189,7 +189,7 @@
 		/* ================================================
 			COLOR PANEL OPEN/CLOSE
 		================================================ */
-		 
+		 /*
 		 $( "#color-panel .panel-button" ).click(function(){
 			$( "#color-panel" ).toggleClass( "close-color-panel", "open-color-panel", 1000 );
 			$( "#color-panel" ).toggleClass( "open-color-panel", "close-color-panel", 1000 );
@@ -225,6 +225,7 @@
 			jQuery(".footer-logo .text-center img").attr("src", "images/logo4.png");
 			return false;
 		});
+		*/
 
 		/* ==============================================
 			PARALLAX
