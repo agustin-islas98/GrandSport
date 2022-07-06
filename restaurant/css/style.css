@@ -391,7 +391,7 @@ html, body{ height: 100%; }
 -------------------------------------------------------------------*/
 
 .banner{
-	background:url(../images/adentro.jpg) no-repeat center top;
+	background:url(../images/fondo1.jpeg) no-repeat center top;
 	background-attachment:fixed;
 	background-size:cover;
 	height:100vh;
@@ -418,18 +418,18 @@ html, body{ height: 100%; }
     letter-spacing: 2.7px;
     position: relative;
     display: inline-block;
-	font-size: 74px;
+	font-size: 90px !important;
     line-height: 100px;
 	color:#fff;
-	padding-bottom: 0px;
-	padding-top:100px;
+	padding-bottom: 150px;
+	padding-top:10px;
 }
 
 .banner-text h2 {
 	font-family: 'nautilus_pompiliusregular';
     letter-spacing: 2.7px;
     position: relative;
-	font-size: 37px;
+	font-size: 300px;
     line-height: 100px;
 	padding-bottom:25px;
 }
@@ -1050,7 +1050,7 @@ html, body{ height: 100%; }
 /*------------------------------------------------------------------
     GALLERY AREA
 -------------------------------------------------------------------*/
-
+/*
 .gallery-main{
 	
 }
@@ -1328,10 +1328,11 @@ html, body{ height: 100%; }
 .panel-pricing-in{
 	clear:both;
 }
+
 .panel-pricing {
-  -moz-transition: all .3s ease;
-  -o-transition: all .3s ease;
-  -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -webkit-transition: all .3s ease;
 }
 .panel-pricing:hover {
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
@@ -1419,17 +1420,19 @@ html, body{ height: 100%; }
 .panel-pricing:hover{
 	margin-top: -8px;
 }
+/*
+.panel-pricing:hover{
 
-.panel-pricing:hover
-
+}
+*/
 
 /*------------------------------------------------------------------
     RESERVATIONS AREA
 -------------------------------------------------------------------*/
-
+/*
 .reservations-main{
 	
-}
+}*/
 
 .form-reservations-box{
 	width:70%;
@@ -1561,8 +1564,11 @@ textarea:focus, input:focus, select:focus, .bootstrap-select .dropdown-toggle:fo
 /*------------------------------------------------------------------
     FOOTER AREA
 -------------------------------------------------------------------*/
-
+/*
 .footer-main{}
+*/
+
+
 .footer-news{
 	background:url(../images/platos.jpg) no-repeat center;
 	background-attachment:fixed;
