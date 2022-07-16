@@ -377,8 +377,8 @@ html, body{ height: 100%; }
 }
 
 .navbar-brand>img{
-    max-width: 150px;
-    max-height: 150px;
+    max-width: 130px;
+    max-height: 130px;
 
 }
 
@@ -418,7 +418,7 @@ html, body{ height: 100%; }
     letter-spacing: 2.7px;
     position: relative;
     display: inline-block;
-	font-size: 90px !important;
+	font-size: 70px !important;
     line-height: 100px;
 	color:#fff;
 	padding-bottom: 150px;
@@ -1658,8 +1658,8 @@ textarea:focus, input:focus, select:focus, .bootstrap-select .dropdown-toggle:fo
 }
 
 .footer.logo>img{
-    max-width: 150px;
-    max-height: 150px;
+    max-width: 130px;
+    max-height: 130px;
 }
 
 .footer-socials {
