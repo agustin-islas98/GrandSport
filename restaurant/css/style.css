@@ -666,7 +666,7 @@ html, body{ height: 100%; }
     SPECIAL-MENU AREA
 -------------------------------------------------------------------*/
 .special-menu{
-	background:url(../images/burga-al-plato.jpg) no-repeat center;
+	background:url(../images/gallery_04.jpg) no-repeat center;
 	background-attachment:fixed;
 	background-size:cover;
 	position:relative;
@@ -687,7 +687,7 @@ html, body{ height: 100%; }
     letter-spacing: 0.16px;
     padding: 20px 120px;
 	color:#fff;
-	font-size: 15px;
+	font-size: 20px;
 }
 .color-white {
     color: #fff;
@@ -923,7 +923,7 @@ html, body{ height: 100%; }
 -------------------------------------------------------------------*/
 
 .team-main{
-	background:url(../images/pizza3.jpg) no-repeat center;
+	background:url(../images/gallery_02.jpg) no-repeat center;
 	background-attachment:fixed;
 	background-size:cover;
 	position:relative;
