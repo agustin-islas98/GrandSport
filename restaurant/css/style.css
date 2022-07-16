@@ -373,12 +373,12 @@ html, body{ height: 100%; }
 }
 
 .fixed-menu .navbar-brand>img {
-    max-width: 150px;
+    max-width: 70px;
 }
 
 .navbar-brand>img{
-    max-width: 130px;
-    max-height: 130px;
+    max-width: 70px;
+    max-height: 70px;
 
 }
 
@@ -418,7 +418,7 @@ html, body{ height: 100%; }
     letter-spacing: 2.7px;
     position: relative;
     display: inline-block;
-	font-size: 70px !important;
+	font-size: 60px !important;
     line-height: 100px;
 	color:#fff;
 	padding-bottom: 150px;
