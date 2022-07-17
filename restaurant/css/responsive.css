@@ -306,6 +306,9 @@
 	.fixed-menu .main-menu nav li a{
 		padding: 10px 0px;
 	}
+	.footer-logo{
+		max-width: 160px;
+    }
 }
 @media (max-width: 600px) {
 	
