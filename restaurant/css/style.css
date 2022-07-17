@@ -644,7 +644,7 @@ html, body{ height: 100%; }
     border-radius: 999px;
 }
 
-.about-images img {
+.about-images img{
     border: 10px solid #f1f1f1;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -1658,8 +1658,8 @@ textarea:focus, input:focus, select:focus, .bootstrap-select .dropdown-toggle:fo
 }
 
 .footer.logo>img{
-    max-width: 130px;
-    max-height: 130px;
+    max-width: 70px;
+    max-height: 70px;
 }
 
 .footer-socials {
