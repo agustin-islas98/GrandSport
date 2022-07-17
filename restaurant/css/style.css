@@ -391,7 +391,7 @@ html, body{ height: 100%; }
 -------------------------------------------------------------------*/
 
 .banner{
-	background:url(../images/fondo1.jpeg) no-repeat center top;
+	background:url(../images/fondo1-min.jpeg) no-repeat center top;
 	background-attachment:fixed;
 	background-size:cover;
 	height:100vh;
@@ -1181,7 +1181,7 @@ html, body{ height: 100%; }
 -------------------------------------------------------------------*/
 
 .blog-main{
-	background:url(../images/uff1.jpg) no-repeat center;
+	background:url(../images/uff1-min.jpg) no-repeat center;
 	background-attachment:fixed;
 	background-size:cover;
 	position:relative;
@@ -1570,7 +1570,7 @@ textarea:focus, input:focus, select:focus, .bootstrap-select .dropdown-toggle:fo
 
 
 .footer-news{
-	background:url(../images/platos.jpg) no-repeat center;
+	background:url(../images/platos-min.jpg) no-repeat center;
 	background-attachment:fixed;
 	background-size:cover;
 	position:relative;
