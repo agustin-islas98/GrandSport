@@ -141,15 +141,6 @@ function TyperSetup() {
 TyperSetup();
 
 
-/*
- *	jQuery OwlCarousel v1.23
- *
- *	Copyright (c) 2013 Bartosz Wojciechowski
- *	http://www.owlgraphic.com/owlcarousel/
- *
- *	Licensed under MIT
- *
- */
 
 // Object.create function
 if ( typeof Object.create !== "function" ) {
